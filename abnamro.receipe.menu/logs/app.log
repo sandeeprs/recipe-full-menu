@@ -1,0 +1,42 @@
+2021-02-22 18:45:23,228 INFO c.a.r.m.TheReceipeMenuApplication [restartedMain] Starting TheReceipeMenuApplication on My-PC with PID 9092 (D:\Desktop\practiseworkspace\February\springboot\abnamro.receipe.menu\target\classes started by My in D:\Desktop\practiseworkspace\February\springboot\abnamro.receipe.menu)
+2021-02-22 18:45:23,248 DEBUG c.a.r.m.TheReceipeMenuApplication [restartedMain] Running with Spring Boot v2.3.8.RELEASE, Spring v5.2.12.RELEASE
+2021-02-22 18:45:23,250 INFO c.a.r.m.TheReceipeMenuApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-22 18:45:37,508 INFO c.a.r.m.TheReceipeMenuApplication [restartedMain] Started TheReceipeMenuApplication in 15.629 seconds (JVM running for 18.525)
+2021-02-22 18:45:57,299 DEBUG c.a.r.m.c.RootControllerClass [http-nio-8080-exec-1] Fetching recipe for the Id | 2
+2021-02-22 18:46:42,930 DEBUG c.a.r.m.c.RootControllerClass [http-nio-8080-exec-3] Deleting recipe for the Id | 4
+2021-02-22 18:48:22,348 INFO c.a.r.m.TheReceipeMenuApplication [restartedMain] Starting TheReceipeMenuApplication on My-PC with PID 9092 (D:\Desktop\practiseworkspace\February\springboot\abnamro.receipe.menu\target\classes started by My in D:\Desktop\practiseworkspace\February\springboot\abnamro.receipe.menu)
+2021-02-22 18:48:22,349 DEBUG c.a.r.m.TheReceipeMenuApplication [restartedMain] Running with Spring Boot v2.3.8.RELEASE, Spring v5.2.12.RELEASE
+2021-02-22 18:48:22,349 INFO c.a.r.m.TheReceipeMenuApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-22 18:48:24,721 INFO c.a.r.m.TheReceipeMenuApplication [restartedMain] Started TheReceipeMenuApplication in 2.584 seconds (JVM running for 185.738)
+2021-02-22 18:53:17,226 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] Starting TheReceipeMenuApplicationTests on My-PC with PID 10528 (started by My in D:\Desktop\practiseworkspace\February\springboot\abnamro.receipe.menu)
+2021-02-22 18:53:17,249 DEBUG c.a.r.m.TheReceipeMenuApplicationTests [main] Running with Spring Boot v2.3.8.RELEASE, Spring v5.2.12.RELEASE
+2021-02-22 18:53:17,251 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-02-22 18:53:31,065 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] Started TheReceipeMenuApplicationTests in 14.458 seconds (JVM running for 19.671)
+2021-02-22 18:53:31,816 DEBUG c.a.r.m.c.RootControllerClass [main] Fetching all the recipes result
+2021-02-22 18:53:32,992 DEBUG c.a.r.m.c.RootControllerClass [main] Updating recipe for the Id | 2
+2021-02-22 18:53:33,286 DEBUG c.a.r.m.c.RootControllerClass [main] Deleting recipe for the Id | 1
+2021-02-22 18:53:33,921 DEBUG c.a.r.m.c.RootControllerClass [main] Inserting result into the data
+2021-02-22 18:53:34,243 DEBUG c.a.r.m.c.RootControllerClass [main] Fetching recipe for the Id | 2
+2021-02-22 18:53:34,314 DEBUG c.a.r.m.c.RootControllerClass [main] Deleting recipe for the Id | 20
+2021-02-22 18:55:54,501 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] Starting TheReceipeMenuApplicationTests on My-PC with PID 5492 (started by My in D:\Desktop\practiseworkspace\February\springboot\abnamro.receipe.menu)
+2021-02-22 18:55:54,532 DEBUG c.a.r.m.TheReceipeMenuApplicationTests [main] Running with Spring Boot v2.3.8.RELEASE, Spring v5.2.12.RELEASE
+2021-02-22 18:55:54,533 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-02-22 18:56:07,733 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] Started TheReceipeMenuApplicationTests in 13.835 seconds (JVM running for 17.149)
+2021-02-22 18:56:08,248 DEBUG c.a.r.m.c.RootControllerClass [main] Fetching all the recipes result
+2021-02-22 18:56:09,053 DEBUG c.a.r.m.c.RootControllerClass [main] Fetching recipe for the Id | 20
+2021-02-22 18:56:09,271 DEBUG c.a.r.m.c.RootControllerClass [main] Updating recipe for the Id | 2
+2021-02-22 18:56:09,548 DEBUG c.a.r.m.c.RootControllerClass [main] Deleting recipe for the Id | 4
+2021-02-22 18:56:10,221 DEBUG c.a.r.m.c.RootControllerClass [main] Inserting result into the data
+2021-02-22 18:56:10,328 DEBUG c.a.r.m.c.RootControllerClass [main] Fetching recipe for the Id | 2
+2021-02-22 18:56:10,402 DEBUG c.a.r.m.c.RootControllerClass [main] Deleting recipe for the Id | 20
+2021-02-22 18:57:54,313 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] Starting TheReceipeMenuApplicationTests on My-PC with PID 1900 (started by My in D:\Desktop\practiseworkspace\February\springboot\abnamro.receipe.menu)
+2021-02-22 18:57:54,340 DEBUG c.a.r.m.TheReceipeMenuApplicationTests [main] Running with Spring Boot v2.3.8.RELEASE, Spring v5.2.12.RELEASE
+2021-02-22 18:57:54,342 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-02-22 18:58:07,301 INFO c.a.r.m.TheReceipeMenuApplicationTests [main] Started TheReceipeMenuApplicationTests in 13.677 seconds (JVM running for 17.22)
+2021-02-22 18:58:07,843 DEBUG c.a.r.m.c.RootControllerClass [main] Fetching all the recipes result
+2021-02-22 18:58:08,629 DEBUG c.a.r.m.c.RootControllerClass [main] Fetching recipe for the Id | 20
+2021-02-22 18:58:08,874 DEBUG c.a.r.m.c.RootControllerClass [main] Updating recipe for the Id | 2
+2021-02-22 18:58:09,196 DEBUG c.a.r.m.c.RootControllerClass [main] Deleting recipe for the Id | 5
+2021-02-22 18:58:09,370 DEBUG c.a.r.m.c.RootControllerClass [main] Inserting result into the data
+2021-02-22 18:58:09,640 DEBUG c.a.r.m.c.RootControllerClass [main] Fetching recipe for the Id | 2
+2021-02-22 18:58:09,749 DEBUG c.a.r.m.c.RootControllerClass [main] Deleting recipe for the Id | 20
